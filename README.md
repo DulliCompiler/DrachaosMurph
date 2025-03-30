@@ -1,12 +1,10 @@
-<h1 align="center">👾 Willkommen bei DulliLabs</h1>
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fokus-Anwendungsentwicklung-blue" alt="Fokus: Anwendungsentwicklung" />
-  <img src="https://img.shields.io/badge/Hardware%20%2B%20Software-DIY%20Style-orange" alt="Hardware & Software" />
-  <img src="https://img.shields.io/badge/Reverse%20Engineering-just4fun-red" alt="Reverse Engineering" />
-</p>
 
 <p align="center">
+
+  <img src="./DulliLabs_Banner.png" width="1000" height="500"/>
   <em>„Technik verstehen heißt, sie zu beherrschen – nicht nur zu benutzen.“</em><br />
   <strong>– DulliLabs</strong>
 </p>
