@@ -1,74 +1,59 @@
-<h1 align="center">👋 Willkommen auf meinem GitHub-Profil</h1>
+<h1 align="center">👾 Willkommen bei DulliLabs</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fokus-Anwendungsentwicklung-blue" alt="Fokus: Anwendungsentwicklung" />
-  <img src="https://img.shields.io/badge/Liebe%20für-Hardware%20%26%20Software-orange" alt="Hardware & Software" />
+  <img src="https://img.shields.io/badge/Hardware%20%2B%20Software-DIY%20Style-orange" alt="Hardware & Software" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-just4fun-red" alt="Reverse Engineering" />
 </p>
 
 <p align="center">
-  <em>„Technik verstehen heißt, sie zu beherrschen – nicht nur zu benutzen.“</em>
+  <em>„Technik verstehen heißt, sie zu beherrschen – nicht nur zu benutzen.“</em><br />
+  <strong>– DulliLabs</strong>
 </p>
 
 <hr />
 
-<h2>🧠 Über mich</h2>
-<ul>
-  <li>🎓 Umschüler zum Fachinformatiker für Anwendungsentwicklung</li>
-  <li>⚙️ Interessiert an Embedded Systems, Webentwicklung & IT-Security</li>
-  <li>📚 Lerne ständig Neues – aktuell: Angular, Django REST, Hardware-Hacking</li>
-  <li>🧪 Ich kombiniere gerne Hard- und Software in kreativen Projekten</li>
-</ul>
+## 🧠 Über mich
 
-<h2>🛠️ Kenntnisse & Tools</h2>
-<p>
-  <strong>Sprachen:</strong><br />
-  <code>Python</code>
-  <code>JavaScript</code>
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>C / C++ </code>
-  <code>C# (Konsolen)</code>
-  <code>SQL</code>
-</p>
+- 🎓 Umschüler zum Fachinformatiker für Anwendungsentwicklung  
+- ⚙️ Begeistert von Embedded Systems, Webentwicklung & DIY-Tech  
+- 📚 Aktuell am Lernen: Angular, Django REST, Firmware & PCB-Spielereien  
+- 🧪 Ich liebe es, Hard- und Software in kreativen Projekten zu kombinieren
 
-<p>
-  <strong>Frameworks & Tools:</strong><br />
-  <code>Django + DRF </code>
-  <code>Angular (in Arbeit)</code>
-  <code>NodeMCU / ESP32</code>
-  <code>OrcaSlicer</code>
-  <code>VisualStudio und VS Code</code>
-  <code>Git / GitHub</code>
-</p>
+## 🛠️ Skills & Tools
 
-<p>
-  <strong>Technisches Wissen:</strong><br />
-  <code>3D-Druck</code>
-  <code>SMD-Löten</code>
-</p>
+**Sprachen**  
+`Python` `JavaScript` `HTML` `CSS` `C / C++` `C# (Konsolen)` `SQL`
 
-<h2>🧩 Technisches Profil</h2>
-<ul>
-  <li>Ganzheitliches Verständnis von Low-Level-Systemen (BIOS, Bootloader) bis zu modernen REST-APIs</li>
-  <li>Microcontroller-Integration (ESP32, Sensorik, Display, etc)</li>
-  <li>API-Entwicklung mit Django + DRF</li>
-  <li>Reverse Engineering & Firmware-Modifikation (CH341A, SPI-Dumps , etc)</li>
-  <li>3D-Druck-Know-how inkl. Materialauswahl und Slicer-Optimierung</li>
-  <li>Erfahrung mit Software-Prototyping, Hardware-Testing & Schnittstellenanalyse</li>
-</ul>
+**Frameworks & Werkzeuge**  
+`Django + DRF` `Angular (in Arbeit)` `ESP32 / NodeMCU`  
+`OrcaSlicer` `Visual Studio / VS Code` `Git / GitHub`
 
+**Tech Stuff**  
+`3D-Druck` `SMD-Löten` `Firmware-Analyse` `ESP-Prototyping`
 
-<h2>🔍 Interessen</h2>
-<ul>
-  <li>💡 Kreative Problemlösungen mit Mikrocontrollern</li>
-  <li>🔐 Sicherheitsaspekte in Hard- & Software</li>
-  <li>🧱 Eigenentwicklungen mit 3D-Druck</li>
-  <li>🌐 Entwicklung modularer Webanwendungen</li>
-</ul>
+## 🔧 Technisches Profil
 
-<h2>🎯 Aktuelle Lernziele</h2>
-<ul>
-  <li>🧱 Modularisierung mit Angular + REST APIs</li>
-  <li>🔍 Reverse Engineering & Firmware-Analyse</li>
-  <li>🔬 Entwicklung von Prototypen mit Mikrocontrollern und 3D-Druck</li>
-</ul>
+- Low-Level bis REST: BIOS, Bootloader, APIs  
+- Microcontroller: Sensorik, Displays, WLAN  
+- API-Design mit Django REST Framework  
+- Firmware Dumping (SPI / CH341A), Analyse, Testing  
+- 3D-Druck: Materialien, Slicer, CAD-Prototypen  
+- Hardware- und Software-Prototyping
+
+## 🎮 Interessen
+
+- 💡 Mikrocontroller für kreative Probleme
+- 🔐 Sicherheit & Interfaces
+- 🧱 Konstruktion mit 3D-Druck
+- 🌐 Modulare Webentwicklung
+
+## 🚀 Lernziele
+
+- 🧩 Angular + REST API Modularisierung
+- 🔍 Firmware-Analyse, Bootsysteme verstehen
+- 🤖 Prototypen mit Mikrocontrollern & 3D-Teilen
+
+---
+
+> 📡 Stay tuned – Projekte aus der DulliLabs-Werkstatt folgen regelmäßig!
