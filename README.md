@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./DulliLabs_Banner_Clean.png" width="1000" height="500"/>
+  <img src="./DulliLabs_Banner.png" width="1000" height="500"/>
   <em>„Technik verstehen heißt, sie zu beherrschen – nicht nur zu benutzen.“</em><br />
   <strong>– DulliLabs</strong>
 </p>
